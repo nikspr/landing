@@ -1,0 +1,25 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  background-image: linear-gradient(to bottom, #fbeee0, rgba(0,0,0,0.5)), url("https://cdn.discordapp.com/attachments/1105433122998325278/1105495804535377940/niklas_AI_humanoid_Roboter_choosing_manga_books_many_details_ci_760557e7-ec3d-4199-beb9-b80e699b16c6.png");
+  padding: 200px 0;
+}
+
+
+.banner h1 {
+  color: black;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+
+.banner p{
+  color: black;
+}
+
+.banner #project-name{
+  color: #fbeee0;
+  }
